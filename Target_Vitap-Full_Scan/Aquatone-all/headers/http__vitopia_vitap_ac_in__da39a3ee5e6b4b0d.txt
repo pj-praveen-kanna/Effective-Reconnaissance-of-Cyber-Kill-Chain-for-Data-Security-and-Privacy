@@ -1,0 +1,15 @@
+200 OK
+Strict-Transport-Security: max-age=63072000
+X-Vercel-Id: bom1::dtxw2-1713077238577-c944f3654396
+Content-Disposition: inline
+Content-Type: text/html; charset=utf-8
+Date: Sun, 14 Apr 2024 06:47:18 GMT
+X-Matched-Path: /
+Access-Control-Allow-Origin: *
+Age: 4324714
+Server: Vercel
+X-Vercel-Cache: HIT
+Cache-Control: public, max-age=0, must-revalidate
+Retry-Count: 0
+Etag: W/"a67b97e993ad513453917d9c51da67fc"
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url

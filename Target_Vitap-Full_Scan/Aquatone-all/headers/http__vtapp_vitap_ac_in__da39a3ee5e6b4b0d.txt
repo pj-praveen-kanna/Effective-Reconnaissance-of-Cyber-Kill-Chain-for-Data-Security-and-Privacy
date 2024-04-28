@@ -1,0 +1,13 @@
+200 OK
+X-Edge-Runtime: 1
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Date: Sun, 14 Apr 2024 06:47:10 GMT
+Content-Type: text/html; charset=utf-8
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url, Accept-Encoding
+X-Powered-By: Next.js
+Cf-Ray: 8741be31afe37efe-MAA
+Alt-Svc: h3=":443"; ma=86400
+Retry-Count: 0
+X-Matched-Path: /
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=nbkFfYsTUDdquXqlTjurjHtmKpHpVo8oFlHzrNDa6mIm%2BuHJgIBcULEeYQmxBfFYdG3wf%2BgcoW40FydrE2z%2BeqarVBjFe8ACvmP9Z3%2BWrtZeTChuQGC%2BjgufhPDj3WopOpYC%2FSXAL78ocBeMRq3%2FOA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare

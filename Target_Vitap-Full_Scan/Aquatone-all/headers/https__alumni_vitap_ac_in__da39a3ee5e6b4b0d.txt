@@ -1,0 +1,14 @@
+200 OK
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Date: Sun, 14 Apr 2024 06:47:16 GMT
+X-Content-Type-Options: nosniff
+Permissions-Policy: geolocation=(),midi=(),sync-xhr=(*),microphone=(),camera=(),fullscreen=(self),payment=()
+Server: nginx
+X-Server-Version: Ladakh
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: strict-origin
+Retry-Count: 0
+Set-Cookie: vaave_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%229c774f9b2b50e49c59e0b9f40cf81988%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%22172.31.4.134%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A120%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20WOW64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F73.0.3683.86%20YaBrowser%2F19.4.0.2397%20Yo%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1713077236%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7Da4605d4a21bf2630b601df5df59dc824; expires=Wed, 24 Apr 2024 06:47:16 GMT; Max-Age=864000; path=/; secure; HttpOnly; SameSite=Strict vaave_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%229c774f9b2b50e49c59e0b9f40cf81988%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%22172.31.4.134%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A120%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20WOW64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F73.0.3683.86%20YaBrowser%2F19.4.0.2397%20Yo%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1713077236%3B%7D2132f436aecb00d2612b61519a938f87; expires=Wed, 24 Apr 2024 06:47:16 GMT; Max-Age=864000; path=/; secure; HttpOnly; SameSite=Strict vaave_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%229c774f9b2b50e49c59e0b9f40cf81988%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%22172.31.4.134%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A120%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20WOW64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F73.0.3683.86%20YaBrowser%2F19.4.0.2397%20Yo%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1713077236%3B%7D2132f436aecb00d2612b61519a938f87; expires=Wed, 24 Apr 2024 06:47:16 GMT; Max-Age=864000; path=/; secure; HttpOnly; SameSite=Strict vaave_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%229c774f9b2b50e49c59e0b9f40cf81988%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%22172.31.4.134%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A120%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20WOW64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F73.0.3683.86%20YaBrowser%2F19.4.0.2397%20Yo%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1713077236%3B%7D2132f436aecb00d2612b61519a938f87; expires=Wed, 24 Apr 2024 06:47:16 GMT; Max-Age=864000; path=/; secure; HttpOnly; SameSite=Strict
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src * 'unsafe-inline' 'unsafe-eval';connect-src *;img-src * data:; frame-src *; style-src * 'unsafe-inline';font-src * data:;
